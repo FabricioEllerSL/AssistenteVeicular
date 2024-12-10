@@ -1,0 +1,34 @@
+{
+    "acoes": [
+        {
+            "nome": "ligar",
+            "objetos": [
+                "veículo"
+            ]
+        },
+        {
+            "nome": "desligar",
+            "objetos": [
+                "veículo"
+            ]
+        },
+        {
+            "nome": "abrir",
+            "objetos": [
+                "porta malas"
+            ]
+        },
+        {
+            "nome": "levantar",
+            "objetos": [
+                "suspensão"
+            ]
+        },
+        {
+            "nome": "abaixar",
+            "objetos": [
+                "suspensão"
+            ]
+        }
+    ]
+}
